@@ -1,4 +1,5 @@
-# Centre for Antimicrobial Optimization Artificial Intelligence Repository and Group
+# Centre for Antimicrobial Optimization (CAMO) 
+# Artificial Intelligence Group
 
 Welcome to the official GitHub organization for the **Centre for Antimicrobial Optimization Artificial Intelligence (CAO-AI)**.
 
